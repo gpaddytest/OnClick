@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnClick</string>
+    <string name="input_numbera">InPut NumberA</string>
+    <string name="input_numberb">InPut NumberB</string>
+</resources>
